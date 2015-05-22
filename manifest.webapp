@@ -1,15 +1,16 @@
 {
-	"name": "App name",
+	"name": "mozWhistle",
 	"launch_path": "/index.html",
 	"version": "0.1",
-	"description": "Your app description.",
+	"description": "Whistler Work week schedule of events",
 	"icons": {
-		"60": "/static/icon-60.png",
-		"128": "/static/icon-128.png"
+		"60": "/static/60.png",
+		"128": "/static/128.png",
+		"256": "/static/256.png"
 	},
 	"developer": {
-		"name": "Developer name",
-		"url": "http://developer-url.com"
+		"name": "Mozilla Partner Engineering",
+		"url": "https://mozilla.org"
 	},
 	"type": "web",
 	"chrome": {

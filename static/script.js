@@ -7,7 +7,7 @@
 			return;
 		}
 		
-		location.replace("http://your-mobile-site-url.com");
+		location.replace("http://juneworkweekwhistler2015.sched.org/");
 	}
 
 	// Called on start and on every offline/online event
