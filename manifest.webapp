@@ -1,6 +1,6 @@
 {
 	"name": "mozWhistle",
-	"launch_path": "/index.html",
+	"launch_path": "/mozWhistle/index.html",
 	"version": "0.1",
 	"description": "Whistler Work week schedule of events",
 	"icons": {
