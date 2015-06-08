@@ -1,20 +1,20 @@
 {
-	"name": "mozWhistle",
-	"launch_path": "/mozWhistle/index.html",
-	"version": "0.1",
-	"description": "Whistler Work week schedule of events",
-	"icons": {
-		"60": "/static/60.png",
-		"128": "/static/128.png",
-		"256": "/static/256.png"
-	},
-	"developer": {
-		"name": "Mozilla Partner Engineering",
-		"url": "https://mozilla.org"
-	},
-	"type": "web",
-	"chrome": {
-		"navigation": true
-	},
-	"default_locale": "en"
+  "name": "mozWhistle",
+  "launch_path": "/mozWhistle/index.html",
+  "version": "0.1",
+  "description": "Whistler Work week schedule of events",
+  "icons": {
+    "60": "/mozWhistle/static/60.png",
+    "128": "/mozWhistle/static/128.png",
+    "256": "/mozWhistle/static/256.png"
+  },
+  "developer": {
+    "name": "Mozilla Partner Engineering",
+    "url": "https://mozilla.org"
+  },
+  "type": "web",
+  "chrome": {
+    "navigation": true
+  },
+  "default_locale": "en"
 }
