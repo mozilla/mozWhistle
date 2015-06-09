@@ -2,19 +2,17 @@
   "name": "mozWhistle",
   "launch_path": "/mozWhistle/index.html",
   "version": "0.1",
-  "description": "Whistler Work week schedule of events",
+  "description": "Welcome to June Work Week in Whistler! This is the schedule for work week.",
   "icons": {
-    "60": "/mozWhistle/static/60.png",
-    "128": "/mozWhistle/static/128.png",
-    "256": "/mozWhistle/static/256.png"
+    "60": "/mozWhistle/static/icon-60.png",
+    "128": "/mozWhistle/static/icon-128.png",
+    "192": "/mozWhistle/static/icon-192.png"
   },
   "developer": {
     "name": "Mozilla Partner Engineering",
     "url": "https://mozilla.org"
   },
   "type": "web",
-  "chrome": {
-    "navigation": true
-  },
-  "default_locale": "en"
+  "default_locale": "en",
+  "orientation": "portrait"
 }

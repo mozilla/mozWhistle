@@ -6,8 +6,12 @@
 		if (!navigator.onLine) {
 			return;
 		}
-		
-		location.replace("http://juneworkweekwhistler2015.sched.org/");
+
+		var url = 'http://juneworkweekwhistler2015.sched.org/';
+		if (window.matchMedia('(max-width: 800px)').matches) {
+			url += 'mobile/'
+		}
+		location.replace(mobile);
 	}
 
 	// Called on start and on every offline/online event
