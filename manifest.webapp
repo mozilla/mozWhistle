@@ -1,7 +1,7 @@
 {
   "name": "mozWhistle",
   "launch_path": "/mozWhistle/index.html",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "Welcome to June Work Week in Whistler! This is the schedule for work week.",
   "icons": {
     "60": "/mozWhistle/static/icon-60.png",
