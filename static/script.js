@@ -9,9 +9,9 @@
 
 		var url = 'http://juneworkweekwhistler2015.sched.org/';
 		if (window.matchMedia('(max-width: 800px)').matches) {
-			url += 'mobile/'
+			url += 'mobile/';
 		}
-		location.replace(mobile);
+		location.replace(url);
 	}
 
 	// Called on start and on every offline/online event
